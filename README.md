@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on JavaScript projects.
 - 💬 Ask me about how Web work from scratch.
 - 📫 Reach me at: https://www.linkedin.com/in/itskushagra/ 
-- 🎤 Medium at: https://medium.com/@imKushagra 
+- 🎤 Blog at: https://medium.com/@imKushagra 
 - ⚡ Fun fact: When not on computer, you can find me teaching 
 - 🧙 Waiting for Flash Power..The Lightning Speed
 
