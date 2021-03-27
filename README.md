@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working as Full Stack JavaScript Developer.
-- 🌱 I’m currently learning how to design System Architecture.
+- 🌱 I’m currently learning ReactJs.
 - 👯 I’m looking to collaborate on JavaScript projects.
 - 💬 Ask me about how Web work from scratch.
 - 📫 Reach me at: https://www.linkedin.com/in/itskushagra/ 
