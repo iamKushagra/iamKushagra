@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working at MongoDB.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on JavaScript projects.
 - 💬 Ask me about how Web work from scratch.
 - 📫 Reach me at: https://www.linkedin.com/in/itskushagra/ 
