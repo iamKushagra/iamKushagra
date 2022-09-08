@@ -7,7 +7,7 @@
 - 🔭 I’m currently working at MongoDB.
 - 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on JavaScript projects.
-- 💬 Ask me about how Web work from scratch.
+- 💬 Ask me about career guidance, networking and tech opportunity.
 - 📫 Reach me at: https://www.linkedin.com/in/itskushagra/ 
 - 🎤 Blog at: https://medium.com/@imKushagra 
 - ⚡ Fun fact: When not on computer, you can find me teaching 
