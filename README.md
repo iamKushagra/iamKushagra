@@ -5,7 +5,6 @@
 -->
 
 - 🔭 I’m currently working at Confluent.
-- 🌱 I’m currently learning Apache Kafka.
 - 👯 I’m looking to collaborate on Data Streaming projects.
 - 💬 Ask me about career guidance, networking and tech opportunity.
 - 📫 Reach me at: https://www.linkedin.com/in/kushagrakesav/ 
